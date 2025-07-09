@@ -12,7 +12,7 @@ The project is divided into two key tasks:
 
 **Goal:** Estimate lounge demand at Heathrow Terminal 3 by forecasting eligibility across Tier 1, 2, and 3 travelers — without needing detailed future flight schedules.
 
-- Grouped over **1.95 million seats** by time of day and haul type (e.g., Morning Long, Afternoon Short).
+- Grouped over **2 million seats** by time of day and haul type (e.g., Morning Long, Afternoon Short).
 - Calculated lounge eligibility using customer tier-level flags to derive average access percentages:
   - **Tier 1:** 0.18% – 0.39%
   - **Tier 2:** 2.67% – 4.55%
